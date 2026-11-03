@@ -1,0 +1,20 @@
+type: GenericCrafter
+name: "SJ-Water-pack"
+research: "copper"
+requirements:[ ]
+
+description: Liquid Water Pack to beryllium.
+health: 1000
+size: 2
+craftTime: 1
+category: "liquid"
+
+itemCapacity: 2000000
+liquidCapacity: 2000000
+
+consumes:{
+power: 0
+liquids:[water/1] 
+}
+
+outputItem: {item: "beryllium",amount: 1}

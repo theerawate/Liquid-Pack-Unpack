@@ -1,0 +1,20 @@
+type: GenericCrafter
+name: "EJ-Cyanogen-unpack"
+research: "EJ-Cyanogen-pack"
+requirements:[ ]
+
+description: Unpack plastanium to Liquid cyanogen .
+health: 1000
+size: 2
+craftTime: 1
+category: "liquid"
+
+itemCapacity: 2000000
+liquidCapacity: 2000000
+
+consumes:{
+power: 0
+items:[plastanium/1]
+}
+
+outputLiquid: {liquid: "cyanogen",amount:1}

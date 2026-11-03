@@ -1,0 +1,20 @@
+type: GenericCrafter
+name: "EJ-Nitrogen-pack"
+research: "EJ-Hydrogen-unpack"
+requirements:[ ]
+
+description: Liquid nitrogen Pack to metaglass.
+health: 1000
+size: 2
+craftTime: 1
+category: "liquid"
+
+itemCapacity: 2000000
+liquidCapacity: 2000000
+
+consumes:{
+power: 0
+liquids:[nitrogen/1] 
+}
+
+outputItem: {item: "metaglass",amount: 1}

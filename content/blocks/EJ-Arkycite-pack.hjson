@@ -1,0 +1,20 @@
+type: GenericCrafter
+name: "EJ-Arkycite-pack"
+research: "EJ-Slag-unpack"
+requirements:[ ]
+
+description: Liquid arkycite Pack to coal.
+health: 1000
+size: 2
+craftTime: 1
+category: "liquid"
+
+itemCapacity: 2000000
+liquidCapacity: 2000000
+
+consumes:{
+power: 0
+liquids:[arkycite/1] 
+}
+
+outputItem: {item: "coal",amount: 1}

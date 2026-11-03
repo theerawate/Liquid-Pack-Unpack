@@ -1,0 +1,20 @@
+type: GenericCrafter
+name: "EJ-Neoplasm-pack"
+research: "EJ-Cyanogen-unpack"
+requirements:[ ]
+
+description: Liquid neoplasm Pack to copper.
+health: 1000
+size: 2
+craftTime: 1
+category: "liquid"
+
+itemCapacity: 2000000
+liquidCapacity: 2000000
+
+consumes:{
+power: 0
+liquids:[neoplasm/1] 
+}
+
+outputItem: {item: "copper",amount: 1}

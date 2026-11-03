@@ -1,0 +1,20 @@
+type: GenericCrafter
+name: "EJ-Water-unpack"
+research: "EJ-Water-pack"
+requirements:[ ]
+
+description: Unpack titanium to Liquid Water .
+health: 1000
+size: 2
+craftTime: 1
+category: "liquid"
+
+itemCapacity: 2000000
+liquidCapacity: 2000000
+
+consumes:{
+power: 0
+items:[titanium/1]
+}
+
+outputLiquid: {liquid: "water",amount:1}

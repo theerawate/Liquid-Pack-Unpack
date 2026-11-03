@@ -1,0 +1,20 @@
+type: GenericCrafter
+name: "SJ-Cryofluid-pack"
+research: "SJ-Oil-unpack"
+requirements:[ ]
+
+description: Liquid cryofluid Pack to tungsten.
+health: 1000
+size: 2
+craftTime: 1
+category: "liquid"
+
+itemCapacity: 2000000
+liquidCapacity: 2000000
+
+consumes:{
+power: 0
+liquids:[cryofluid/1] 
+}
+
+outputItem: {item: "tungsten",amount: 1}
