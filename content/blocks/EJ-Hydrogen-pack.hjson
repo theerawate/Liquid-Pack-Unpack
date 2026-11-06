@@ -1,6 +1,6 @@
 type: GenericCrafter
 name: "EJ-Hydrogen-pack"
-research: "EJ-Ozone-unpack"
+research: "hydrogen"
 requirements:[ ]
 
 description: Liquid hydrogen Pack to lead.
