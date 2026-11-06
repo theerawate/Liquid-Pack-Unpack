@@ -1,6 +1,6 @@
 type: GenericCrafter
 name: "EJ-Neoplasm-pack"
-research: "EJ-Cyanogen-unpack"
+research: "neoplasm"
 requirements:[ ]
 
 description: Liquid neoplasm Pack to copper.
