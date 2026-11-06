@@ -1,6 +1,6 @@
 type: GenericCrafter
 name: "EJ-Nitrogen-pack"
-research: "EJ-Hydrogen-unpack"
+research: "nitrogen"
 requirements:[ ]
 
 description: Liquid nitrogen Pack to metaglass.
