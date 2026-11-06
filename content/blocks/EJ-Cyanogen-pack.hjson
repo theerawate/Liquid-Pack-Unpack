@@ -1,6 +1,6 @@
 type: GenericCrafter
 name: "EJ-Cyanogen-pack"
-research: "EJ-Nitrogen-unpack"
+research: "cyanogen"
 requirements:[ ]
 
 description: Liquid cyanogen Pack to plastanium.
