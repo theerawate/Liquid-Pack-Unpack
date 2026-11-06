@@ -1,6 +1,6 @@
 type: GenericCrafter
 name: "SJ-Cryofluid-pack"
-research: "SJ-Oil-unpack"
+research: "cryofluid"
 requirements:[ ]
 
 description: Liquid cryofluid Pack to tungsten.
