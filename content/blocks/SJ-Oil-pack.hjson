@@ -1,6 +1,6 @@
 type: GenericCrafter
 name: "SJ-Oil-pack"
-research: "SJ-Slag-unpack"
+research: "oil"
 requirements:[ ]
 
 description: Liquid oil Pack to carbide.
