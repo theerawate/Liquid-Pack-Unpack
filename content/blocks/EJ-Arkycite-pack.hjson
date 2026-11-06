@@ -1,6 +1,6 @@
 type: GenericCrafter
 name: "EJ-Arkycite-pack"
-research: "EJ-Slag-unpack"
+research: "arkycite"
 requirements:[ ]
 
 description: Liquid arkycite Pack to coal.
