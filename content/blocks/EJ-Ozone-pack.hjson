@@ -1,6 +1,6 @@
 type: GenericCrafter
 name: "EJ-Ozone-pack"
-research: "EJ-Arkycite-unpack"
+research: "ozone"
 requirements:[ ]
 
 description: Liquid ozone Pack to pyratite.
