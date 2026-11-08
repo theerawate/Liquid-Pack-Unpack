@@ -3,7 +3,7 @@ name: "EJ-Neoplasm-unpack"
 research: "EJ-Neoplasm-pack"
 requirements:[ ]
 
-description: Unpack copper to Liquid neoplasm .
+description: Unpack Blast compound to Liquid neoplasm .
 health: 1000
 size: 2
 craftTime: 1
@@ -14,7 +14,7 @@ liquidCapacity: 2000000
 
 consumes:{
 power: 0
-items:[copper/1]
+items:[blast-compound/1]
 }
 
 outputLiquid: {liquid: "neoplasm",amount:1}
